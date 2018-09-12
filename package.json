@@ -1,0 +1,16 @@
+{
+  "name": "gattendance",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "async": "^2.6.0",
+    "axios": "^0.17.1",
+    "body-parser": "~1.17.1",
+    "express": "~4.15.2",
+    "firebase": "^4.11.0",
+    "google-spreadsheet": "^2.0.4"
+  }
+}
