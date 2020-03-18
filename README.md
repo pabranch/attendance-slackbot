@@ -11,7 +11,7 @@ This bot works only in the gStudents Slack channel.
 - Use /attendance-check-total to see your current absence total 
 - Use /attendance-policy to see the attendance policy
 
-### For Instrcutor Use Only
+### For Instructor Use Only
 Slack the following commands directly to a student as necessary: 
 - Use /attendance-unexcused-partial if someone's misses attendance and is unexcused 
 - Use /attendance-unexcused-full if someone is unexcused for the whole day 
